@@ -49,4 +49,4 @@ But instead of always having both `mount` and `unmount` option, this plugin will
 
 # Credits
 
-This plugin was made by using the plasma-vault dolphin service menu: [](https://github.com/KDE/plasma-vault)
+This plugin was made by using the plasma-vault dolphin service menu: https://github.com/KDE/plasma-vault
